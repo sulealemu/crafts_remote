@@ -5,4 +5,4 @@ It is a border line between USA and MEXICO.
 It is functioning as a Notepad.
 
 
-====you are in Common1======
+====you are on Common1======
