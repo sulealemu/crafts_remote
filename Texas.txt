@@ -4,5 +4,8 @@ It is a border line between USA and MEXICO.
 
 It is functioning as a Notepad.
 
+%%%% U R on MAIN Branch.%%%%%%
 
-====you are on Common1======
+This is exercise on clone.
+xxxxxxyyyyyyy..
+
